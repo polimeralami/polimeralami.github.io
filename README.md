@@ -1,6 +1,6 @@
 # Fathimah Personal Portfolio
 
-## Contains:
+### Contains:
   - About Me
   - IT Projects (College and Personal)
   - Resume
