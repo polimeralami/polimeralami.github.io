@@ -1,4 +1,4 @@
-# Fathimah Personal Portfolio
+# Polimeralami's Portfolio
 
 ### Contains:
   - About Me
